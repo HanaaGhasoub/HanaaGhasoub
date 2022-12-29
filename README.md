@@ -10,6 +10,6 @@
 
 Have been doing software development for a long time till now and it wasn't easy. 
 I should know about any updates, features, and specifications of the tools I am using. I mainly work on the backend using the Microsoft stack. 
-Maintainability, testability, and scalability are the factors that lead me to create and develop clean code [correct, design, style] and object-oriented solutions with high performance and quality. 
+Maintainability, testability, and scalability are the factors that lead me to create and develop clean code [correctness, design, style] and object-oriented solutions with high performance and quality. 
 Problem-solving is my favorite game. I always find new challenges when trying solve problems. 
 I am certain of one thing about myself, which is I can do anything for the best outcome.
